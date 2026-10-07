@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=CHARVI%20KOOLWAL&fontSize=62&fontAlignY=38&fontColor=F8D7E8&desc=AI%20%2F%20ML%20%2F%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn&color=0:09090B,45:1B1020,75:32152F,100:8F5B7A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=CHARVI%20KOOLWAL&fontSize=62&fontAlignY=38&fontColor=F8D7E8&desc=AI%20%2F%20ML%20%2F%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn&color=0:08080A,45:170E1C,75:32152F,100:9B6285"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=E8B4CB&center=true&vCenter=true&width=750&height=50&lines=I+build+things+that+should+exist.;AI+%2B+Data+%2B+Code+%3D+%E2%9C%A8;Turning+ideas+into+real+products.;Always+learning.+Always+building." />
 
-<br/>
+<br/><br/>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=F8D7E8&labelColor=111111&color=6D405E"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0D?style=for-the-badge&logo=googlechrome&logoColor=F8D7E8&color=5F3B52"/>
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F8D7E8&labelColor=111111&color=6D405E"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=F8D7E8&color=5F3B52"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=F8D7E8&labelColor=111111&color=6D405E"/>
+<img src="https://img.shields.io/badge/CONTACT-0B0B0D?style=for-the-badge&logo=gmail&logoColor=F8D7E8&color=5F3B52"/>
 </a>
+
+<br/><br/>
+
+`✦ BUILDING • LEARNING • EXPERIMENTING ✦`
 
 </div>
 
@@ -24,9 +28,11 @@
 
 <div align="center">
 
-### `01001001 00100000 01000010 01010101 01001001 01001100 01000100`
+```text
+01001001  01001110  01010100  01000101  01001110  10100
+```
 
-**I don't just write code. I turn ideas into experiences.**
+### Turning curiosity into code.
 
 </div>
 
@@ -34,51 +40,62 @@
 
 <div align="center">
 
-## `whoami`
+# `01 / ABOUT`
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### 👋 Hey, I'm Charvi.
+<td width="58%" valign="top">
 
-I'm a **BCA graduate specializing in Artificial Intelligence & Data Science**, with a strong interest in building products that sit at the intersection of **AI, data and modern web development**.
+### Hey, I'm Charvi 👋
 
-I enjoy taking an idea from:
+I'm a **BCA graduate specializing in Artificial Intelligence & Data Science**, interested in building products where **technology, data and intelligent systems** come together.
 
-**`💡 Idea → 🧠 Logic → 💻 Code → 🚀 Product`**
+I like understanding how things work, building them from scratch, and then making them better.
 
-Currently exploring deeper into:
+```text
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+SHIP
+```
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Full Stack Development
-* 📊 Analytics & Data Systems
-* ☁️ Cloud Technologies
-* 🧩 Backend Architecture
+Currently exploring:
+
+**AI/ML** · **Full Stack** · **Analytics** · **Cloud** · **Backend Systems**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ```text
-╭─────────────────────────────╮
-│       CHARVI.EXE            │
-├─────────────────────────────┤
-│                             │
-│  STATUS     : BUILDING      │
-│  MODE       : CREATE        │
-│  COFFEE     : OPTIONAL ☕   │
-│  BUGS       : MANY          │
-│  FIXED      : EVENTUALLY    │
-│                             │
-│  [██████████████░░] 87%     │
-│                             │
-╰─────────────────────────────╯
+╭──────────────────────────────╮
+│                              │
+│       CHARVI.EXE             │
+│                              │
+│  STATUS    : BUILDING        │
+│  MODE      : CREATE          │
+│  STACK     : FULL            │
+│  MIND      : CURIOUS         │
+│                              │
+│  [███████████████░░] 92%     │
+│                              │
+│  SYSTEM ONLINE ✓             │
+│                              │
+╰──────────────────────────────╯
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -86,20 +103,18 @@ Currently exploring deeper into:
 
 <div align="center">
 
-## `TECHNOLOGY MATRIX`
+# `02 / THE TOOLBOX`
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nextjs,tailwind,fastapi,tensorflow,sklearn,sql,firebase,gcp,git,github,figma&perline=9" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 `PYTHON` · `JAVA` · `JAVASCRIPT` · `SQL`
+
 `NEXT.JS` · `REACT` · `FASTAPI` · `FIREBASE`
+
 `TENSORFLOW` · `SCIKIT-LEARN` · `GOOGLE CLOUD`
 
 </div>
@@ -108,9 +123,9 @@ Currently exploring deeper into:
 
 <div align="center">
 
-## `SELECTED WORK`
+# `03 / SELECTED WORK`
 
-### Things I've actually built, broken, fixed, and shipped.
+### A few things I've built along the way.
 
 </div>
 
@@ -119,33 +134,33 @@ Currently exploring deeper into:
 
 <td width="50%" valign="top">
 
-## 🚨 Emergency SOS
+### 📊 LISTURAD
 
-An Android application designed to detect accidents and help notify emergency responders.
+**Analytics platform**
 
-**Stack**
+A modern analytics system combining a Next.js frontend with a FastAPI backend.
 
-`Android` `Firebase` `Firestore` `Google Maps`
+`Next.js` `FastAPI` `SQL`
 
-**Focus**
+**Built around**
 
-Emergency detection · Real-time data · Location services
+Analytics · Dashboards · APIs · Performance · Data
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📊 Listurad
+### 🩺 DIABETIC RETINOPATHY
 
-A modern analytics platform combining a Next.js frontend with a FastAPI backend.
+**Deep Learning**
 
-**Stack**
+CNN-based image classification project focused on detecting diabetic retinopathy.
 
-`Next.js` `FastAPI` `SQL` `Analytics`
+`Python` `TensorFlow` `Keras`
 
-**Focus**
+**Built around**
 
-Dashboards · APIs · Performance · Data visualization
+Computer Vision · Deep Learning · Classification
 
 </td>
 
@@ -155,33 +170,33 @@ Dashboards · APIs · Performance · Data visualization
 
 <td width="50%" valign="top">
 
-## 🩺 Diabetic Retinopathy
+### ❤️ HEART DISEASE PREDICTION
 
-A CNN-based machine learning project for retinal image classification.
+**Machine Learning**
 
-**Stack**
+A predictive model using Logistic Regression to identify heart disease risk.
 
-`Python` `TensorFlow` `Keras`
-
-**Focus**
-
-Deep Learning · Computer Vision · Classification
-
-</td>
-
-<td width="50%" valign="top">
-
-## ❤️ Heart Disease Prediction
-
-A machine learning model built using Logistic Regression.
+`Python` `Scikit-learn` `Pandas`
 
 **Result**
 
 `81% Accuracy`
 
-**Stack**
+</td>
 
-`Python` `Scikit-learn` `Pandas`
+<td width="50%" valign="top">
+
+### 🌐 WEB DEVELOPMENT
+
+**From interfaces to systems**
+
+Experience building responsive websites, dashboards and user-focused interfaces.
+
+`HTML` `CSS` `JavaScript`
+
+**Focus**
+
+Performance · UX · Responsiveness · Accessibility
 
 </td>
 
@@ -192,39 +207,37 @@ A machine learning model built using Logistic Regression.
 
 <div align="center">
 
-## `THE BUILDING PROCESS`
+# `04 / HOW I BUILD`
 
 <br/>
 
 ```text
-                  ┌──────────────┐
-                  │     IDEA     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │   EXPLORE    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    BUILD     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    BREAK     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    DEBUG     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    SHIP 🚀   │
-                  └──────────────┘
+                  ┌─────────────┐
+                  │    IDEA     │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │   EXPLORE   │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │    BUILD    │
+                  └──────┬──────┘
+                         ↓
+              ┌──────────┴──────────┐
+              ↓                     ↓
+        ┌───────────┐         ┌───────────┐
+        │   TEST    │         │   BREAK   │
+        └─────┬─────┘         └─────┬─────┘
+              └──────────┬──────────┘
+                         ↓
+                  ┌─────────────┐
+                  │    FIX      │
+                  └──────┬──────┘
+                         ↓
+                  ┌─────────────┐
+                  │   SHIP 🚀   │
+                  └─────────────┘
 ```
 
 </div>
@@ -233,7 +246,7 @@ A machine learning model built using Logistic Regression.
 
 <div align="center">
 
-## `EXPERIENCE`
+# `05 / EXPERIENCE`
 
 </div>
 
@@ -241,7 +254,7 @@ A machine learning model built using Logistic Regression.
 
 **Saatvik Fincorp** · `May 2025 → July 2025`
 
-Worked on web development and UI improvements, focusing on:
+Worked on improving web experiences with a focus on:
 
 `Performance` · `Mobile UX` · `User Engagement` · `Cross-browser Compatibility`
 
@@ -249,29 +262,30 @@ Worked on web development and UI improvements, focusing on:
 
 <div align="center">
 
-## `ACHIEVEMENTS`
+# `06 / ACHIEVEMENTS`
 
-</div>
+<br/>
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
+
+<td align="center" width="25%">
 
 ### 🏆
 
 **AINCAT**
 
-Rank **2522**
+`Rank 2522`
 
-out of **4.6 Lakh+**
+4.6 Lakh+ participants
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### ☁️
 
-**Oracle Cloud**
+**ORACLE**
 
 AI Foundations
 
@@ -279,7 +293,7 @@ Associate
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 📊
 
@@ -291,35 +305,38 @@ Analytics
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 🛡️
 
-**Cisco**
+**CISCO**
 
 Cybersecurity
 
 Certifications
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## `GITHUB // SYSTEM STATUS`
+# `07 / GITHUB`
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=09090B&title_color=E8B4CB&icon_color=C9A0DC&text_color=EDEDED&ring_color=E8B4CB" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=08080A&title_color=E8B4CB&icon_color=C9A0DC&text_color=F1F1F1&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=09090B&title_color=E8B4CB&text_color=EDEDED" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=08080A&title_color=E8B4CB&text_color=F1F1F1" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=09090B&ring=E8B4CB&fire=C9A0DC&currStreakLabel=E8B4CB&sideLabels=EDEDED&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=08080A&ring=E8B4CB&fire=C9A0DC&currStreakLabel=E8B4CB&sideLabels=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 
 </div>
 
@@ -327,9 +344,9 @@ Certifications
 
 <div align="center">
 
-## `CONTRIBUTION.exe`
+# `08 / CONTRIBUTION.exe`
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
 
 </div>
 
@@ -337,22 +354,22 @@ Certifications
 
 <div align="center">
 
-## `CURRENTLY_LOADING...`
+# `09 / CURRENTLY BUILDING`
 
 <br/>
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  ████████████████████████████████████  100%    │
-│                                                 │
-│  → Advanced Full Stack Development              │
-│  → Machine Learning                             │
-│  → Backend Architecture                          │
-│  → Cloud Technologies                            │
-│  → Data & Analytics                              │
-│                                                 │
-└─────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   [████████████████████████████████████████] 100%    │
+│                                                      │
+│   → Full Stack Development                           │
+│   → Machine Learning                                 │
+│   → Backend Architecture                              │
+│   → Data & Analytics                                  │
+│   → Cloud Technologies                                │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -361,17 +378,19 @@ Certifications
 
 <div align="center">
 
-## `ONE MORE THING`
+# `10 / THE PRINCIPLE`
 
 <br/>
 
-### I believe good software should be
-
-**Useful. · Beautiful. · Thoughtful. · Reliable.**
+### `LEARN → BUILD → BREAK → FIX → REPEAT`
 
 <br/>
 
-`And preferably, a little delightful. ✦`
+**Useful. Beautiful. Thoughtful.**
+
+<br/>
+
+`That's the kind of software I want to build.`
 
 </div>
 
@@ -379,20 +398,24 @@ Certifications
 
 <div align="center">
 
+<br/>
+
 <a href="YOUR_PORTFOLIO_URL">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=LET'S%20BUILD%20SOMETHING&fontSize=26&fontColor=F8D7E8&color=0:32152F,100:8F5B7A&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=LET'S%20BUILD%20SOMETHING&fontSize=28&fontColor=F8D7E8&color=0:32152F,100:8F5B7A&animation=fadeIn"/>
 
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=E8B4CB&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=E8B4CB&style=for-the-badge"/>
 
 <br/><br/>
 
-<sub>Designed with code, curiosity and an unreasonable number of tabs open.</sub>
+<sub>Built with curiosity, caffeine and far too many browser tabs.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8F5B7A,50:32152F,100:08080A"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8F5B7A,50:32152F,100:09090B"/>
