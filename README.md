@@ -1,109 +1,50 @@
-# Hi, I'm Charvi Koolwal 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CHARVI KOOLWAL README                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### BCA Graduate | AI & Data Science | Full-Stack & ML Enthusiast
+<div align="center">
 
-I'm a Computer Applications graduate specializing in Artificial Intelligence
-and Data Science, passionate about building useful products and exploring
-new technologies.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:24101f,100:8B5E83&text=CHARVI%20KOOLWAL&fontSize=48&fontColor=F5D0E5&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20%7C%20ML&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-Currently, I'm working on web applications, backend systems, analytics
-dashboards, and AI/ML projects.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=E8B4CB&center=true&vCenter=true&width=700&lines=Building+intelligent+things+with+code+%F0%9F%92%BB;Exploring+AI%2C+ML+%26+Data+Science+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%9A%80;Always+learning.+Always+building.+%E2%9C%A8" />
 
-## 🚀 What I Work With
+<br><br>
 
-**Languages**
-- Python
-- Java
-- C
-- SQL
-- JavaScript
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-E8B4CB?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+</a>
 
-**Development**
-- Next.js
-- React
-- FastAPI
-- HTML
-- CSS
-- Tailwind CSS
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-C9A0DC?style=for-the-badge&logo=linkedin&logoColor=111111"/>
+</a>
 
-**AI / ML**
-- TensorFlow
-- Scikit-learn
-- Machine Learning
-- Data Analysis
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-F5D0E5?style=for-the-badge&logo=gmail&logoColor=111111"/>
+</a>
 
-**Tools & Platforms**
-- Git & GitHub
-- Firebase
-- Google Cloud
-- Figma
-- Android Studio
+</div>
+
+<br>
 
 ---
 
-## 📌 Featured Projects
+## 🖤 About Me
 
-### 🚨 Emergency SOS App
-An Android application designed to detect accidents and notify
-emergency responders.
-
-**Tech:** Android Studio, Firebase, Google Maps API
-
-### 🩺 Diabetic Retinopathy Detection
-CNN-based image classification model for detecting diabetic
-retinopathy from retinal images.
-
-**Tech:** Python, TensorFlow, Keras
-
-### ❤️ Heart Disease Prediction
-Machine learning model for predicting heart disease using
-Logistic Regression.
-
-**Accuracy:** 81%
-
----
-
-## 💼 Experience
-
-**Web Development Intern | Saatvik Fincorp**
-
-Worked on improving website performance, mobile usability,
-user engagement and cross-browser compatibility.
-
----
-
-## 🏆 Certifications & Achievements
-
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate
-- SAS Certified Specialist: Visual Business Analytics Using SAS Viya
-- HackerRank Python (Basic)
-- Cisco Introduction to Cybersecurity
-- AINCAT Rank: 2522 / 4.6 Lakh+
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Full-Stack Development
-- Backend Architecture
-- Data Structures & Algorithms
-- Machine Learning
-- Cloud Technologies
-
----
-
-## 📫 Let's Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👋 Hey! I'm Charvi Koolwal                                │
+│                                                             │
+│  🎓 BCA Graduate • Artificial Intelligence & Data Science   │
+│  💻 Full Stack Developer                                    │
+│  🤖 Machine Learning Enthusiast                             │
+│  📊 Data & Analytics Explorer                              │
+│  ☁️ Cloud Technology Learner                                │
+│                                                             │
+│  I enjoy turning ideas into useful digital products,        │
+│  experimenting with AI/ML and building clean interfaces.    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
