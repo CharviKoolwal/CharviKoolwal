@@ -6,16 +6,26 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-08080A?style=for-the-badge&labelColor=08080A&color=65445B"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-08080A?style=for-the-badge&labelColor=08080A&color=4A3444"/>
+<img src="https://img.shields.io/badge/ENV-PRODUCTION-08080A?style=for-the-badge&labelColor=08080A&color=362A34"/>
+
+<br/><br/>
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-090909?style=flat-square&logo=googlechrome&logoColor=CFA7BA&labelColor=090909&color=3A2934"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%92-090909?style=for-the-badge&logo=googlechrome&logoColor=CFA7BA&color=3A2934"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-090909?style=flat-square&logo=linkedin&logoColor=CFA7BA&labelColor=090909&color=3A2934"/>
+<img src="https://img.shields.io/badge/LINKEDIN-%E2%86%92-090909?style=for-the-badge&logo=linkedin&logoColor=CFA7BA&color=3A2934"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-090909?style=flat-square&logo=gmail&logoColor=CFA7BA&labelColor=090909&color=3A2934"/>
+<img src="https://img.shields.io/badge/CONTACT-%E2%86%92-090909?style=for-the-badge&logo=gmail&logoColor=CFA7BA&color=3A2934"/>
 </a>
 
 </div>
@@ -26,208 +36,170 @@
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                         SYSTEM.INFO                           │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  USER        : charvi                                          │
-│  ROLE        : software / AI / data                           │
-│  EDUCATION   : BCA · AI & Data Science                        │
-│  ENVIRONMENT : web · backend · ML · cloud                     │
-│  STATUS      : actively building                              │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=500&color=9B7287&center=true&vCenter=true&width=850&height=35&lines=INITIALIZING+CHARVI.OS...;%3E+Loading+developer+profile...;%3E+Loading+engineering+modules...;%3E+All+systems+ready+%E2%9C%93" />
 
 </div>
 
-## `01 / ENGINEERING PROFILE`
-
-I build software across the stack, with a particular interest in **AI/ML, backend systems, analytics and modern web applications**.
-
-My approach is simple:
-
-```text
-Understand the problem
-        ↓
-Design the system
-        ↓
-Write the smallest useful version
-        ↓
-Measure it
-        ↓
-Find the bottleneck
-        ↓
-Improve it
-        ↓
-Ship
-```
-
-I'm particularly interested in the space where **software engineering meets intelligent systems**.
-
 ---
-
-## `02 / STACK`
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### LANGUAGES
-
-```text
-Python
-Java
-JavaScript
-C
-SQL
-```
-
-</td>
-
-<td valign="top" width="33%">
-
-### APPLICATIONS
-
-```text
-Next.js
-React
-FastAPI
-HTML
-CSS
-Tailwind
-```
-
-</td>
-
-<td valign="top" width="33%">
-
-### AI / DATA
-
-```text
-TensorFlow
-Keras
-Scikit-learn
-Pandas
-Machine Learning
-```
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### CLOUD
-
-```text
-Google Cloud
-Firebase
-Firestore
-Cloud Functions
-```
-
-</td>
-
-<td valign="top">
-
-### ENGINEERING
-
-```text
-REST APIs
-Git
-GitHub
-Performance
-Testing
-Debugging
-```
-
-</td>
-
-<td valign="top">
-
-### TOOLS
-
-```text
-VS Code
-Figma
-Android Studio
-Google Analytics
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,fastapi,tensorflow,sklearn,firebase,gcp,git,github&perline=12"/>
+## `01 // SYSTEM PROFILE`
+
+</div>
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+### `whoami`
+
+I'm **Charvi Koolwal**, a BCA graduate specializing in **Artificial Intelligence & Data Science**.
+
+I enjoy building software across the stack, especially where **AI, data, backend systems and modern interfaces** meet.
+
+My workflow:
+
+```text
+PROBLEM
+   ↓
+UNDERSTAND
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+OPTIMIZE
+   ↓
+SHIP
+```
+
+Currently exploring:
+
+`AI/ML` · `Full Stack` · `Backend` · `Analytics` · `Cloud`
+
+</td>
+
+<td width="42%" valign="top">
+
+```text
+╭──────────────────────────────╮
+│                              │
+│       CHARVI.EXE             │
+│                              │
+│  STATUS   : ONLINE           │
+│  MODE     : BUILD            │
+│  STACK    : FULL             │
+│  MIND     : CURIOUS          │
+│                              │
+│  CPU      ███████████░  94%  │
+│  AI       ██████████░░  88%  │
+│  DATA     █████████░░░  82%  │
+│                              │
+│  SYSTEM READY ✓              │
+│                              │
+╰──────────────────────────────╯
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02 // TECHNOLOGY MATRIX`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nextjs,tailwind,fastapi,tensorflow,sklearn,sql,firebase,gcp,git,github,figma,androidstudio&perline=10"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=600&color=C9A0DC&center=true&vCenter=true&width=850&height=35&lines=PYTHON+%2F+JAVA+%2F+JAVASCRIPT+%2F+SQL;NEXT.JS+%2F+REACT+%2F+FASTAPI;TENSORFLOW+%2F+SCIKIT-LEARN;FIREBASE+%2F+GOOGLE+CLOUD+%2F+GIT" />
 
 </div>
 
 ---
 
-## `03 / SYSTEMS I'VE BUILT`
+<div align="center">
 
-### `01` · LISTURAD
+## `03 // SELECTED SYSTEMS`
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2300&pause=700&color=9B7287&center=true&vCenter=true&width=700&height=30&lines=FOUR+SYSTEMS.+FOUR+PROBLEMS.+ONE+ENGINEERING+MINDSET." />
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `01` · 📊 LISTURAD
 
 **Analytics Platform**
 
 A full-stack analytics system built around a Next.js frontend and FastAPI backend.
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                        LISTURAD                           │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│   CLIENT                                                 │
-│     │                                                    │
-│     ▼                                                    │
-│   Next.js ──────────────── UI / Analytics                │
-│     │                                                    │
-│     ▼                                                    │
-│   FastAPI ──────────────── REST APIs                     │
-│     │                                                    │
-│     ▼                                                    │
-│   Database ─────────────── Persistent Data               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+CLIENT
+  ↓
+NEXT.JS
+  ↓
+FASTAPI
+  ↓
+DATABASE
+  ↓
+ANALYTICS
 ```
 
-**Engineering focus**
+**Focus**
 
-`API performance` · `database queries` · `analytics` · `dashboard architecture` · `error handling`
+`APIs` · `Analytics` · `Database` · `Performance`
 
----
+</td>
 
-### `02` · DIABETIC RETINOPATHY
+<td width="50%" valign="top">
+
+### `02` · 🩺 DIABETIC RETINOPATHY
 
 **Computer Vision / Deep Learning**
 
-CNN-based image classification system for retinal image analysis.
+CNN-based image classification project for retinal image analysis.
 
 ```text
 IMAGE
   ↓
-PREPROCESSING
+PREPROCESS
   ↓
 CNN
   ↓
-FEATURE EXTRACTION
-  ↓
-CLASSIFICATION
+FEATURES
   ↓
 PREDICTION
 ```
 
 **Stack**
 
-`Python` `TensorFlow` `Keras` `CNN`
+`Python` · `TensorFlow` · `Keras`
 
----
+</td>
 
-### `03` · HEART DISEASE PREDICTION
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03` · ❤️ HEART DISEASE
 
 **Machine Learning**
 
@@ -235,173 +207,330 @@ Predictive model using Logistic Regression.
 
 ```text
 DATA
- ↓
-PREPROCESS
- ↓
+  ↓
+PREPROCESSING
+  ↓
 FEATURES
- ↓
-LOGISTIC REGRESSION
- ↓
-EVALUATION
- ↓
-81% ACCURACY
+  ↓
+MODEL
+  ↓
+PREDICTION
 ```
+
+**Result**
+
+`81% Accuracy`
 
 **Stack**
 
-`Python` `Scikit-learn` `Pandas`
+`Python` · `Scikit-learn` · `Pandas`
 
----
+</td>
 
-## `04 / ENGINEERING INTERESTS`
+<td width="50%" valign="top">
 
-```text
-                         SOFTWARE
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-             WEB          BACKEND          AI
-              │             │             │
-           Next.js       FastAPI       ML Models
-              │             │             │
-           React          APIs          TensorFlow
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                         DATA
-                            │
-                     Analytics Systems
-```
+### `04` · 🔎 OCR SYSTEM
 
-Areas I'm actively interested in:
+**Optical Character Recognition**
+
+A project focused on extracting meaningful text from images and converting visual information into usable digital data.
 
 ```text
-→ scalable APIs
-→ backend architecture
-→ machine learning
-→ data pipelines
-→ analytics systems
-→ cloud infrastructure
-→ performance optimization
-→ developer tooling
+IMAGE
+  ↓
+PREPROCESS
+  ↓
+TEXT DETECTION
+  ↓
+OCR
+  ↓
+STRUCTURED TEXT
 ```
 
----
+**Focus**
 
-## `05 / EXPERIENCE`
+`Computer Vision` · `OCR` · `Image Processing`
 
-### Web Development Intern
+</td>
 
-**Saatvik Fincorp**
+</tr>
 
-`May 2025 → July 2025`
-
-Worked on production web development with emphasis on:
-
-* frontend performance
-* responsive interfaces
-* mobile usability
-* cross-browser compatibility
-* user engagement
-* website optimization
+</table>
 
 ---
-
-## `06 / CERTIFICATIONS`
-
-```text
-Oracle Cloud Infrastructure
-└── 2025 AI Foundations Associate
-
-SAS
-└── Visual Business Analytics Using SAS Viya
-    Score: 94%
-
-HackerRank
-└── Python Basic
-
-Cisco
-├── Introduction to Cybersecurity
-└── Network Defence
-
-AINCAT
-└── Rank: 2522 / 4.6 Lakh+
-```
-
----
-
-## `07 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=CFA7BA&icon_color=9B7287&text_color=E5E5E5&rank_icon=github&include_all_commits=true"/>
+## `04 // SYSTEM ARCHITECTURE`
+
+<br/>
+
+```text
+                         ┌───────────────┐
+                         │    CLIENT     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   NEXT.JS     │
+                         │   FRONTEND    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   REST API    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    FASTAPI    │
+                         │    BACKEND    │
+                         └───────┬───────┘
+                                 │
+                  ┌──────────────┼──────────────┐
+                  ▼              ▼              ▼
+             ┌─────────┐   ┌──────────┐   ┌─────────┐
+             │ DATABASE│   │ ANALYTICS│   │   AI    │
+             └─────────┘   └──────────┘   └────┬────┘
+                                                │
+                                                ▼
+                                          ┌───────────┐
+                                          │ PREDICT / │
+                                          │ CLASSIFY  │
+                                          └───────────┘
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1700&pause=450&color=CFA7BA&center=true&vCenter=true&width=800&height=30&lines=%5B+REQUEST+%5D+%E2%86%92+%5B+PROCESS+%5D+%E2%86%92+%5B+DATA+%5D+%E2%86%92+%5B+RESULT+%5D" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `05 // EXPERIENCE`
+
+</div>
+
+<table>
+<tr>
+
+<td width="100%">
+
+### `WEB DEVELOPMENT INTERN`
+
+**Saatvik Fincorp**
+`May 2025 → July 2025`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2400&pause=700&color=9B7287&width=700&height=25&lines=Frontend+%E2%86%92+Performance+%E2%86%92+UX+%E2%86%92+Optimization+%E2%86%92+Production"/>
+
+Worked on:
+
+`Website Performance` · `Mobile Usability` · `User Experience` · `Cross-browser Compatibility`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `06 // CERTIFICATIONS`
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2100&pause=650&color=E8B4CB&center=true&vCenter=true&width=850&height=35&lines=%5B+01+%5D+ORACLE+AI+FOUNDATIONS;%5B+02+%5D+SAS+VISUAL+BUSINESS+ANALYTICS;%5B+03+%5D+HACKERRANK+PYTHON;%5B+04+%5D+CISCO+CYBERSECURITY" />
+
+</div>
+
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Oracle Cloud**
+
+AI Foundations
+Associate
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**SAS**
+
+Visual Business
+Analytics
+
+**94%**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**HackerRank**
+
+Python
+Basic
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**Cisco**
+
+Cybersecurity
+Network Defence
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `07 // GITHUB TELEMETRY`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=CFA7BA&icon_color=9B7287&text_color=E5E5E5&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=CFA7BA&text_color=E5E5E5&langs_count=8" height="180"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=CFA7BA&fire=9B7287&currStreakLabel=CFA7BA&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=777777&center=true&vCenter=true&width=700&height=25&lines=READING+REPOSITORIES...;%3E+ANALYZING+COMMITS...;%3E+SYSTEM+TELEMETRY+ONLINE+%E2%9C%93"/>
+
 </div>
 
 ---
-
-## `08 / CONTRIBUTIONS`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
+## `08 // CONTRIBUTION ENGINE`
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1800&pause=500&color=9B7287&center=true&vCenter=true&width=700&height=25&lines=CONTRIBUTION+ENGINE+RUNNING...;%3E+COMMITS+%E2%86%92+CODE+%E2%86%92+ITERATION+%E2%86%92+PROGRESS" />
 
 </div>
 
 ---
-
-## `09 / DEVELOPMENT LOOP`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1500&pause=300&color=CFA7BA&center=true&vCenter=true&width=850&height=45&lines=%5B+RESEARCH+%5D+%E2%86%92+%5B+DESIGN+%5D+%E2%86%92+%5B+IMPLEMENT+%5D;%5B+TEST+%5D+%E2%86%92+%5B+PROFILE+%5D+%E2%86%92+%5B+OPTIMIZE+%5D;%5B+SHIP+%5D+%E2%86%92+%5B+MONITOR+%5D+%E2%86%92+%5B+ITERATE+%5D" />
+## `09 // DEVELOPMENT LOOP`
 
-</div>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1400&pause=300&color=E8B4CB&center=true&vCenter=true&width=900&height=55&lines=%5B+RESEARCH+%5D+%E2%86%92+%5B+DESIGN+%5D+%E2%86%92+%5B+IMPLEMENT+%5D;%5B+TEST+%5D+%E2%86%92+%5B+DEBUG+%5D+%E2%86%92+%5B+OPTIMIZE+%5D;%5B+SHIP+%5D+%E2%86%92+%5B+MONITOR+%5D+%E2%86%92+%5B+ITERATE+%5D" />
 
-## `10 / CURRENT FOCUS`
+<br/><br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01] Full Stack Architecture              ██████████  100%  │
-│  [02] Backend Engineering                  █████████░   90%  │
-│  [03] Machine Learning                     ████████░░   80%  │
-│  [04] Data & Analytics                     ████████░░   80%  │
-│  [05] Cloud                                 ███████░░░   70%  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+       ┌──────────┐
+       │ RESEARCH │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  DESIGN  │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  BUILD   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  DEBUG   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │ OPTIMIZE │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  SHIP 🚀 │
+       └────┬─────┘
+            │
+            └───────────────↻
 ```
 
+</div>
+
 ---
 
 <div align="center">
 
-## `> ./connect`
+## `10 // CURRENT FOCUS`
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=450&color=CFA7BA&center=true&vCenter=true&width=800&height=80&lines=%5B+01+%5D+FULL+STACK+ARCHITECTURE+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%5B+02+%5D+BACKEND+ENGINEERING+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91;%5B+03+%5D+MACHINE+LEARNING+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;%5B+04+%5D+DATA+%26+ANALYTICS+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;%5B+05+%5D+CLOUD+TECHNOLOGIES+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 // TERMINAL`
+
+<br/>
 
 ```text
-charvi@dev:~$ echo "Let's build something useful."
-
-Let's build something useful.
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  charvi@developer:~$ ./connect                              │
+│                                                             │
+│  Initializing connection...                                 │
+│                                                             │
+│  ✓ LinkedIn                                                 │
+│  ✓ Portfolio                                                │
+│  ✓ Email                                                    │
+│                                                             │
+│  > Ready for the next build.                                │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=CFA7BA&color=2E2029"/>
+<img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=CFA7BA&color=3A2934"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=CFA7BA&color=2E2029"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-090909?style=for-the-badge&logo=googlechrome&logoColor=CFA7BA&color=3A2934"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=CFA7BA&color=2E2029"/>
+<img src="https://img.shields.io/badge/EMAIL-090909?style=for-the-badge&logo=gmail&logoColor=CFA7BA&color=3A2934"/>
 </a>
 
 <br/><br/>
