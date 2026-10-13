@@ -12,22 +12,6 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%92-090909?style=for-the-badge&logo=googlechrome&logoColor=CFA7BA&color=3A2934"/>
-</a>
-
- 
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-%E2%86%92-090909?style=for-the-badge&logo=linkedin&logoColor=CFA7BA&color=3A2934"/>
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/CONTACT-%E2%86%92-090909?style=for-the-badge&logo=gmail&logoColor=CFA7BA&color=3A2934"/>
-</a>
-
 </div>
 
 <br/>
